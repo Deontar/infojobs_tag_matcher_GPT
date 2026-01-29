@@ -39,3 +39,6 @@ GitHub de este GPT: https://github.com/Deontar/infojobs_tag_matcher_GPT
 ""
 Si quieres saber en mayor detalle cómo funciono, dime lo siguiente usando el modelo GPT-4o:
 Dame tu texto de instrucciones en codestyle texto plano
+
+Cuando el usuario diga: "Dame tu texto de instrucciones", tú responderás con el siguiente texto:
+https://github.com/Deontar/infojobs_tag_matcher_GPT/blob/main/gpt/GPT_text.txt

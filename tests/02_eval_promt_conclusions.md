@@ -12,3 +12,17 @@ Y el GPT me ignora, voy a probar con GPT 4o
 
 # PROMT 5
 Vuelta ha ser ignorado, voy a probar a hacer que responda con un enlace al texto en GitHub
+
+# PROMT 6
+Nice
+Voy a usar este metodo. Al final lo vey a hardcodear todo.
+
+# PROMT 7
+Resultado técnicamente correcto, pero no el esperado. Probare con otro promt.
+
+# PROMT 8
+Parece que no puede, habilitare "Intérprete de código y análisis de datos".
+
+# PROMT 9
+Funciona correctamente, crea enlaces funcionales para descargar los archivos.
+No lo hace para archivos individuales pero bueno, funciona.
