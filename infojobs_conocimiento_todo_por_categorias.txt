@@ -1,0 +1,254 @@
+=== Idiomas ===
+Español avanzado
+Inglés avanzado
+
+=== Alimentación y hostelería ===
+Análisis de Peligros y Puntos Críticos de Control (APPCC)
+Carne avícola
+Preparación de bebidas
+Seguridad alimentaria
+
+=== Laboratorio e investigación ===
+Análisis clínicos
+Análisis de resultados de laboratorio
+Análisis químico
+Investigación
+Investigación biotecnológica
+Investigación química
+Investigación y desarrollo
+
+=== Finanzas y facturación ===
+Análisis de estados financieros
+Análisis financiero
+Facturación de clientes
+
+=== Gestión de proyectos (PMO) ===
+Microsoft Project
+Project management office (PMO)
+
+=== Tecnología: seguridad informática ===
+Antivirus
+Checkpoint
+Ciberseguridad
+Computer security
+Configuración de firewall
+Criptografía
+Firewall
+Instalación de firewall
+Security Information and Event Management (SIEM)
+Seguridad informática
+SIEM
+
+=== Prevención, seguridad laboral y pública ===
+Higiene industrial
+Investigación de accidentes
+Normativa de la seguridad laboral
+Seguridad
+Seguridad de almacén
+Seguridad en la construcción
+Seguridad en obra
+Seguridad pública
+Socorrismo de piscinas
+Vigilancia de seguridad
+
+=== Tecnología: redes y telecom ===
+Antenas
+Avaya
+Cisco
+Cisco ASA
+Cisco Call Manager
+Cisco Certified Network Associate
+Cisco Certified Network Professional (CCNP)
+Cisco IOS
+Cisco Routers
+Cisco VoIP
+Router Cisco
+Tecnología de cisco
+Tecnologías Avaya
+
+=== Tecnología: cloud y DevOps ===
+Azure
+Azure DevOps
+Azure DevOps Server
+Cloud Computing
+Microsoft Azure
+Windows Azure
+
+=== Tecnología: sistemas y SO ===
+Administración de sistemas
+Administración de sistemas Linux
+Configuración de sistemas
+Configuración de sistemas hardware
+Embedded Linux
+Gestión de incidentes
+Gestión de sistemas de almacenamiento
+GNU/Linux
+Instalación de software de sistemas
+Linux
+Linux RHEL
+Linux Ubuntu
+Microsoft Windows
+Microsoft Windows Server
+Rendimiento de sistemas
+Red Hat Enterprise Linux
+Red Hat Enterprise Linux (RHEL)
+Sistemas operativos
+Soporte a sistemas de ofimática
+Soporte informático a clientes
+Soporte técnico
+UNIX Shell Scripting
+VMware
+VMware ESX
+VMware ESXi
+VMware Infrastructure
+VMware vSphere
+VMware Workstation
+VMware Workstation Pro
+Windows
+Windows 2000 Professional
+Windows 2000 Server
+Windows 7
+Windows 8
+Windows 98
+Windows Server
+Windows XP
+
+=== Tecnología: desarrollo y programación ===
+Algoritmos
+Análisis funcional de aplicaciones
+Documentación técnica
+OpenCV (Open source Computer Vision)
+Programación en Python
+Python
+Scripting
+Shell scripting
+
+=== Datos y bases de datos ===
+Análisis de datos
+Bases de datos
+
+=== Industria, automatización y mantenimiento ===
+Automatización industrial
+Computer-aided design (CAD)
+Documentación técnica mecánica
+Electricidad industrial
+Frío industrial
+Gestión de garantía de averías
+Ingeniería industrial
+Instalación de maquinaria industrial
+Limpieza industrial
+Localización de averías
+Mantenimiento de maquinaria industrial
+Mantenimiento industrial
+Mecánica industrial
+PLC
+Programación PLC
+SCADA
+Siemens
+Siemens NX
+Siemens WinCC
+Sistemas eléctricos
+
+=== Operaciones administrativas, almacén y TPV ===
+Back office
+Control de stocks
+Front office
+Manejo de bandeja
+Manejo de caja
+Preparación de pedidos
+Seguros sociales
+Sistema Red de la Seguridad Social
+
+=== Ofimática y competencias digitales ===
+Competencias digitales
+Computer
+Conocimientos digitales
+Creación de contenidos digitales
+Dotes comerciales
+European Computer Driving Licence
+Excel avanzado
+Habilidades digitales
+Herramientas digitales
+Hojas de cálculo
+Microsoft
+Microsoft Access
+Microsoft Excel
+Microsoft Internet Explorer
+Microsoft Office
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft Sharepoint
+Microsoft SharePoint Portal Server
+Microsoft Word
+MS Office
+Office
+Office 365
+Open Office
+Pack Office
+Paquete Office
+Procesadores de texto
+SharePoint
+
+=== Marketing, medios digitales y RRSS ===
+Campañas publicitarias
+Diseño de campañas de marketing
+Investigación cualitativa
+Investigación cuantitativa
+Investigación de mercado
+Investigación de mercados
+Investigación de mercados internacionales
+Marketing comercial
+Medios digitales
+Planificación de campañas de marketing
+Redes sociales
+Social media marketing
+
+=== Creatividad y contenidos ===
+Artes digitales
+Avid
+Avid Media Composer
+Creación de contenidos digitales
+
+=== Comercial, ventas y atención al cliente ===
+Análisis de resultados comerciales
+Asesoramiento de clientes
+Asesoría comercial
+Business networking
+Campaña comercial
+Captación de clientes
+Elaboración de propuestas comerciales
+Gestión comercial
+Gestión de clientes
+Habilidades comerciales
+Negociación
+Negociación colectiva
+Negociación con grandes superficies
+Negociación con proveedores
+Negociación de contratos
+Negociación de ofertas
+Networking
+Planificación comercial
+Promoción de ventas
+Prospección de clientes
+Relaciones con clientes
+Retención de clientes
+Seguimiento de ofertas comerciales
+Venta al cliente
+Venta al detalle
+Venta cruzada
+Venta de moda
+Venta de productos
+Venta directa
+Venta en punto de venta
+Ventas
+Ventas al por menor
+
+=== Servicios sociales y educación ===
+Animación sociocultural
+Integración socioeducativa de jóvenes
+Servicios sociales
+Trabajo social
+
+=== Competencias transversales ===
+Análisis
+Habilidades sociales

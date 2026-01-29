@@ -1,0 +1,366 @@
+=== fisica emergencias fuerzas estado ===
+Agente de la guardia civil
+Agente de policía nacional
+Agente de protección civil
+Asesor/a de seguridad
+Guarda de coto de caza
+Guarda de seguridad
+Guarda forestal
+Guardaespaldas
+Inspector/a de seguridad industrial
+Jefe/a de equipo de seguridad
+Responsable de salud y seguridad
+Safety and security manager
+Security guard
+Security officer
+Técnico/a en alarmas de seguridad
+Vigilante de seguridad
+Vigilante de seguridad aeroportuaria
+Vigilante de seguridad en aeropuertos
+=== salud servicios sociales ===
+Auxiliar sociosanitario/a
+Captador/a de socios para ONG
+Cirujano/a
+Educador/a social
+Especialista en tratamientos de depilación
+Especialista en tratamientos de estética
+Integrador/a social
+Investigador/a de ciencias sociales
+Kinesiólogo/a
+Manager of social service
+Médico/a forense
+Social and community services manager
+Social worker
+Sociólogo/a
+Socorrista
+Socorrista acuático
+Socorrista de piscina
+Socorrista de playa
+Técnico/a de atención sociosanitaria
+Técnico/a en farmacia y parafarmacia
+Técnico/a en imagen para diagnóstico
+Trabajador/a social
+=== rrhh_seleccion ===
+Analista de recursos humanos
+Analista de RRHH
+Consultor/a de recursos humanos
+Consultor/a de RRHH
+Consultor/a de selección de personal
+Head hunter
+Hunter
+Responsable de recursos humanos
+Responsable de RRHH
+Técnico/a de recursos humanos
+Técnico/a de RRHH
+=== operaciones logistica compras supplychain retail ===
+Business operations manager
+Chief operations officer
+Especialista en importación y exportación
+Especialista en logística
+Especialista en logística de eventos
+IT operations manager
+Laser operations
+Logistics analyst
+Logistics operations manager
+Operador/a logístico/a
+Operations director
+Property management agent
+Responsable de compras
+Responsable de supermercado
+Responsable de tienda
+Senior operations manager
+Store manager
+Supply chain analyst
+Vendor management manager
+=== medioambiente agricultura ===
+Agente de gestión de residuos
+Apicultor/a
+Coordinador/a de gestión de residuos
+Fruit picking team leader
+Redero/a
+Responsable de gestión medioambiental
+Técnico/a de enseñanza ambiental
+Técnico/a de gestión ambiental
+Técnico/a de riego
+=== marketing comunicacion contenidos ===
+Community manager
+Digital community manager
+Digital content
+Digital marketer
+Digital marketing manager
+Digital marketing strategist
+Digital media planner
+Especialista en comunicación
+Especialista en contenidos digitales
+Especialista en marketing on line
+Especialista en publicidad
+Especialista en SEO
+Growth hacker
+Marketing analyst
+Marketing manager
+Marketing operations assistant
+Moderator
+Redactor/a de contenidos web
+Redactor/a de periódico
+Redactor/a de revista
+Redactor/a jefe de periódico
+Redactor/a jefe/a
+Redactor/a técnico/a
+Responsable de comunicación
+Responsable de marketing
+Responsable de relaciones públicas
+Social media marketing specialist
+Social media specialist
+Social media strategist
+Técnico/a en marketing digital
+=== it desarrollo devops soporte ===
+Administrador/a de bases de datos
+Administrador/a de redes
+Administrador/a de sistemas
+Administrador/a de sistemas informáticos
+Administrador/a de sistemas Linux
+Analista de negocios
+Analista de programación
+Analista de sistemas
+Analista funcional
+Analista IT
+Application developer
+Application engineer
+Consultor/a de TIC
+Consultor/a informático/a
+Consultor/a SAP
+Desarrollador/a de aplicaciones web
+Desarrollador/a web
+Desarrollador/a web Full Stack
+DevOps engineer
+Full Stack Engineer
+Gestor/a de bases de datos
+Gestor/a de redes
+Ingeniero/a de software
+Ingeniero/a técnico/a informático/a de microsistemas
+IT analyst
+IT business analyst
+Mantenedor/a de equipos de telecomunicaciones
+Operador/a de sistemas
+Programador/a de bases de datos
+Programador/a web
+QA engineer
+Service desk analyst
+Software engineer
+Técnico/a de redes
+Técnico/a informático/a
+Web application developer
+Web developer
+=== ingenieria arquitectura construccion topografia ===
+Arquitecto/a
+Arquitecto/a de sistemas
+Arquitecto/a de software
+Arquitecto/a de soluciones
+Arquitecto/a paisajista
+Arquitecto/a técnico/a
+Automation engineer
+Consultor/a energético/a
+Dibujante técnico/a arquitectónico/a
+Encargado/a de obra civil
+Engineering manager
+Engineering project manager
+Especialista en geomática y topografía
+Ingeniero/a civil
+Ingeniero/a de control de calidad
+Ingeniero/a de diseño
+Ingeniero/a de mantenimiento
+Ingeniero/a de procesos
+Ingeniero/a de producción
+Ingeniero/a eléctrico/a
+Ingeniero/a industrial
+Ingeniero/a mecánico/a
+Ingeniero/a técnico/a en informática
+Ingeniero/a técnico/a industrial
+Instalador/a de sistemas de riego
+Jefe/a de equipo de fontaneros
+Jefe/a de equipo de obra
+Junior engineer
+Montador/a de andamios para eventos
+Project engineer
+Project manager
+Supervisor/a de obra civil
+Topógrafo/a
+Topógrafo/a minero/a
+=== hosteleria turismo eventos ocio ===
+Activity leader
+Animador/a sociocultural
+Asistente de organización de eventos
+Azafato/a de eventos
+Camarero/a responsable del comedor
+Coordinador/a de eventos
+Empleado/a de guardarropa
+Encargado/a de guardarropa
+F & B manager
+Flight attendant
+Informador/a turístico/a
+Manager of spa
+Organizador/a de conferencias y eventos
+Organizador/a de eventos corporativos
+Organizador/a de eventos especiales
+Organizador/a de eventos particulares
+Parking attendant
+Responsable de equipo de camareros
+Responsable de eventos
+Responsable de gestión hostelera
+Room attendant
+Spa attendant
+Tour leader
+=== finanzas riesgo compliance auditoria ===
+Administrativo/a contable
+Analista contable
+Analista de riesgo
+Analista de riesgo crediticio
+Analista de riesgos
+Analista de riesgos en aseguradoras
+Analista de riesgos financieros
+Analista financiero/a
+Auditor
+Auditor/a de cuentas
+Auditor/a de TIC
+Auditor/a energético/a
+Auditor/a nocturno/a
+Bank compliance officer
+Chief compliance officer
+Compliance coordinator
+Consultor/a financiero/a
+Controller financiero
+Credit risk analyst
+Credit risk manager
+Empleado/a de gestión tributaria
+External auditor
+Finance controller
+Financial analyst
+Financial controller
+Fraud analyst
+Fraud prevention analyst
+Gestor/a de cobros
+Gestor/a de riesgos financieros
+Gestor/a de siniestros
+Internal auditor
+Investigador/a de fraudes financieros
+Night auditor
+Operational risk analyst
+Senior internal auditor
+Supervisor/a de auditoría
+Técnico/a administrativo/a de gestión financiera
+Técnico/a contable
+=== educacion formacion ===
+Coordinador/a de becas y ayudas
+Docente de ciencias
+Docente de formación profesional
+Docente de informática
+Especialista en formación en empresas
+Formador/a en informática
+Maestro/a de enseñanza primaria
+Profesor/a de ciencias
+Profesor/a de enseñanza secundaria
+Profesor/a de enseñanza superior
+Profesor/a de escuela de idiomas
+Profesor/a de formación continua
+Profesor/a de formación profesional
+Profesor/a de idiomas
+Profesor/a de informática
+Subdirector/a de centro de enseñanza
+Técnico/a de formación
+=== direccion management general ===
+CEO
+Consultor/a empresarial
+Jefe/a de equipo
+Jefe/a de equipo de montaje
+Product development team leader
+Project leader
+Team leader
+Team manager
+=== datos bi ia ===
+Analista de datos
+Analista de datos de clientes
+Analistas de datos
+Arquitecto/a de datos
+Business intelligence analyst
+Business intelligence consultant
+Business intelligence manager
+Business intelligence specialist
+Científico/a de datos
+Data analyst
+Data engineer
+Gestor/a de datos
+Ingeniero/a de datos
+Ingeniero/a de inteligencia artificial
+Senior data analyst
+=== comercial ventas cuentas ===
+Account manager
+Consultor/a comercial
+Digital sales manager
+Gestor/a comercial
+Gestor/a de banca comercial
+Gestor/a de cuentas
+Gestor/a de cuentas de clientes
+Gestor/a de equipo comercial
+Gestor/a de ventas
+Key account manager
+Operador/a de ventas
+Sales team manager
+Secretario/a comercial
+Técnico/a comercial
+=== atencion cliente callcenter ===
+Agente de call center
+Call center agent
+Call center operator
+Call center representative
+Call centre agent
+Call centre operator
+Call centre service agent
+Call centre supervisor
+Director/a de call center
+Inbound call center agent
+Information agent
+Operador/a de call center
+Responsable de atención al cliente
+Supervisor/a de call center
+=== arte diseno medios moda ===
+Artista digital
+Digital designer
+Digital multimedia designer
+Diseñador/a digital
+Diseñador/a web
+Editor/a de cine y televisión
+Gestor/a cultural
+Modelador/a 3D
+Modelo de bellas artes
+Modelo de moda
+Modelo de pasarela
+Operador/a de cámara
+Proyeccionista
+=== administracion_secretariado_backoffice ===
+Administrativo/a
+Administrativo/a de logística
+Asistente administrativo/a
+Asistente de gestión
+Asistente de gestión inmobiliaria
+Assistant manager
+Assistant operations manager
+Auxiliar administrativo/a
+Engineering assistant
+Entrador/a de datos
+Gestor/a administrativo/a
+Grabador/a de datos
+Management assistant
+Oficial administrativo/a
+Operations administrator
+Secretarial assistant
+Secretario/a
+Secretario/a de centro docente
+Secretario/a de consultorio médico
+Secretario/a de dirección
+Secretario/a general
+Secretario/a jurídico/a
+Secretario/a médico/a
+Secretary
+Team assistant
+Técnico/a administrativo/a
+Técnico/a administrativo/a de gestión

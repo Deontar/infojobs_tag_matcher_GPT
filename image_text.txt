@@ -1,0 +1,90 @@
+========================
+DESCRIPCIÓN POSITIVA
+========================
+
+Ilustración vectorial plana, estilo logo corporativo moderno.
+Fondo blanco grisáceo uniforme (#f2f4f6), completamente liso.
+
+Elemento principal centrado horizontalmente, ligeramente desplazado a la izquierda: lupa estilizada fusionada con etiqueta de precio (tag).
+
+LUPA:
+- Aro circular grueso, diámetro ≈ 60% de la altura total.
+- Color azul muy oscuro casi negro (#1f2d3d).
+- Grosor uniforme, bordes perfectamente suavizados.
+- Arco interno concéntrico incompleto simulando reflejo de cristal.
+- Arco más fino con opacidad reducida (~40%).
+- Mango corto, cilíndrico, inclinado 45° hacia abajo a la izquierda.
+- Mango del mismo color que el aro.
+- Corte final del mango recto, sin redondeo.
+
+ETIQUETA (TAG):
+- Forma de flecha horizontal apuntando a la derecha.
+- Rectángulo alargado con punta triangular derecha.
+- Agujero circular blanco perfecto en la punta.
+- Color azul corporativo saturado (#0a66c2).
+- Atraviesa el aro de la lupa (superposición limpia).
+- Sin sombras entre elementos.
+
+TEXTO:
+- Texto blanco centrado vertical y horizontalmente.
+- Contenido: "InfoJobs"
+- Tipografía sans-serif geométrica, bold, ligeramente italic.
+- Kerning compacto.
+- Capitalización: I y J mayúsculas, resto minúsculas.
+- Altura del texto ≈ 60% de la altura de la etiqueta.
+
+COMPOSICIÓN:
+- Estilo 100% vectorial (SVG-like).
+- Colores planos, sólidos, sin variaciones.
+- Alto contraste azul/blanco.
+- Sensación corporativa, tecnológica, búsqueda de empleo.
+- Aspect ratio 1:1
+- Composición limpia, legible, simétrica.
+
+========================
+REGLAS POSITIVAS (SI TIENE)
+========================
+
+- Diseño flat design
+- Bordes perfectos
+- Colores planos
+- Tipografía legible y corporativa
+- Estética de logo
+- Claridad visual extrema
+- Superposición limpia de elementos
+- Geometría precisa
+- Sin ambigüedad visual
+- Estilo profesional y tecnológico
+- Apariencia de icono SVG exportado
+- Escalable sin pérdida de calidad
+
+========================
+REGLAS NEGATIVAS (NO TIENE)
+========================
+
+- No sombras
+- No gradientes
+- No iluminación
+- No volumen
+- No relieve
+- No efectos 3D
+- No texturas
+- No ruido
+- No desenfoque
+- No profundidad de campo
+- No reflejos realistas
+- No brillos
+- No glassmorphism
+- No skeuomorphism
+- No fondos complejos
+- No fotografías
+- No personas
+- No fondos transparentes
+- No colores fuera de la paleta azul/blanco
+- No tipografías manuscritas
+- No serif
+- No adornos
+- No iconografía extra
+- No elementos flotantes
+- No deformaciones
+- No perspectiva

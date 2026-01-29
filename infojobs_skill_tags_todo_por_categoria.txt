@@ -1,0 +1,332 @@
+== [Administración de sistemas y tecnologías de la información] ==
+Active Directory
+Active Directory (AD)
+Administración de sistemas
+Administración de sistemas Linux
+Azure
+Azure DevOps
+Azure DevOps Server
+Bases de datos
+Cloud Computing
+Computer
+Configuración de sistemas
+Configuración de sistemas hardware
+GNU/Linux
+Gestión de sistemas de almacenamiento
+Instalación de software de sistemas
+Linux
+Linux RHEL
+Linux Ubuntu
+Localización de averías
+MS Office
+Microsoft
+Microsoft Active Directory
+Microsoft Azure
+Microsoft Internet Explorer
+Microsoft Windows
+Microsoft Windows Server
+Red Hat Enterprise Linux
+Red Hat Enterprise Linux (RHEL)
+Rendimiento de sistemas
+Sistemas operativos
+Windows
+Windows 2000 Professional
+Windows 2000 Server
+Windows 7
+Windows 8
+Windows 98
+Windows Server
+Windows XP
+== [Redes y telecomunicaciones] ==
+Avaya
+Checkpoint
+Cisco
+Cisco ASA
+Cisco Call Manager
+Cisco Certified Network Associate
+Cisco Certified Network Professional (CCNP)
+Cisco IOS
+Cisco Routers
+Cisco VoIP
+IPsec VPN
+Router Cisco
+Tecnología de cisco
+Tecnologías Avaya
+Virtual private network (VPN)
+Wireshark
+== [Ciberseguridad y seguridad informática] ==
+Antivirus
+Ciberseguridad
+Computer security
+Configuración de firewall
+Criptografía
+Cybercrime
+Cybersecurity
+ELK
+ELK Stack
+Firewall
+ISO 27001
+IT security
+Information technology security
+Instalación de firewall
+Internet security
+PCI
+PKI
+Public key infrastructure (PKI)
+SIEM
+SSH Secure Shell
+SSL
+Security Information and Event Management (SIEM)
+Security information and event management
+Seguridad
+Seguridad informática
+Splunk
+Spring Security
+TLS
+anti-malware
+== [Virtualización y cloud computing] ==
+Azure
+Azure DevOps
+Azure DevOps Server
+Cloud Computing
+Microsoft Azure
+VMware
+VMware ESX
+VMware ESXi
+VMware Infrastructure
+VMware Workstation
+VMware Workstation Pro
+VMware vSphere
+Windows Azure
+== [Programación y desarrollo de software] ==
+Algoritmos
+Avid
+Avid Media Composer
+Computer-aided design (CAD)
+Embedded Linux
+OpenCV (Open source Computer Vision)
+PLC
+Programación PLC
+Programación en Python
+Project management office (PMO)
+Python
+Scripting
+Shell scripting
+Spring Security
+UNIX Shell Scripting
+== [Análisis de datos e investigación] ==
+Análisis
+Análisis clínicos
+Análisis de Peligros y Puntos Críticos de Control (APPCC)
+Análisis de datos
+Análisis de estados financieros
+Análisis de resultados comerciales
+Análisis de resultados de laboratorio
+Análisis financiero
+Análisis funcional de aplicaciones
+Análisis químico
+Control de stocks
+Documentación de auditoría
+Documentación técnica
+Documentación técnica mecánica
+Investigación
+Investigación biotecnológica
+Investigación cualitativa
+Investigación cuantitativa
+Investigación de accidentes
+Investigación de mercado
+Investigación de mercados
+Investigación de mercados internacionales
+Investigación química
+Investigación y desarrollo
+== [Finanzas, contabilidad y auditoría] ==
+Análisis de estados financieros
+Auditoría
+Auditoría contable
+Auditoría de la calidad
+Auditoría externa
+Auditoría interna
+Auditoría medioambiental
+Auditorías
+Auditorías internas
+Compliance
+Facturación de clientes
+Project management office (PMO)
+Regulatory compliance
+Seguros sociales
+Sistema Red de la Seguridad Social
+== [Marketing y ventas] ==
+Asesoramiento de clientes
+Asesoría comercial
+Back office
+Business networking
+Campaña comercial
+Campañas publicitarias
+Captación de clientes
+Control de stocks
+Diseño de campañas de marketing
+Elaboración de propuestas comerciales
+Front office
+Gestión comercial
+Gestión de clientes
+Manejo de caja
+Marketing comercial
+Negociación
+Negociación colectiva
+Negociación con grandes superficies
+Negociación con proveedores
+Negociación de contratos
+Negociación de ofertas
+Planificación comercial
+Planificación de campañas de marketing
+Promoción de ventas
+Prospección de clientes
+Redes sociales
+Relaciones con clientes
+Retención de clientes
+Seguimiento de ofertas comerciales
+Social media marketing
+Venta al cliente
+Venta al detalle
+Venta cruzada
+Venta de moda
+Venta de productos
+Venta directa
+Venta en punto de venta
+Ventas
+Ventas al por menor
+== [Industrial, mecánica y mantenimiento] ==
+Antenas
+Automatización industrial
+Carne avícola
+Electricidad industrial
+Frío industrial
+Ingeniería industrial
+Instalación de maquinaria industrial
+Limpieza industrial
+Localización de averías
+Manejo de bandeja
+Mantenimiento de maquinaria industrial
+Mantenimiento industrial
+Mecánica industrial
+PLC
+Preparación de bebidas
+Preparación de pedidos
+Programación PLC
+SCADA
+Siemens
+Siemens NX
+Siemens WinCC
+Sistemas eléctricos
+== [Servicios sociales y socioculturales] ==
+Animación sociocultural
+Integración socioeducativa de jóvenes
+Servicios sociales
+Socorrismo de piscinas
+Trabajo social
+== [Herramientas de ofimática y productividad] ==
+Artes digitales
+Competencias digitales
+Conocimientos digitales
+Creación de contenidos digitales
+European Computer Driving Licence
+Excel avanzado
+Herramientas digitales
+Hojas de cálculo
+Medios digitales
+Microsoft Access
+Microsoft Excel
+Microsoft Office
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft Project
+Microsoft SharePoint Portal Server
+Microsoft Sharepoint
+Microsoft Word
+Office
+Office 365
+Open Office
+Pack Office
+Paquete Office
+Procesadores de texto
+SharePoint
+== [Idiomas] ==
+Español avanzado
+Inglés avanzado
+== [Soft skills y habilidades transversales] ==
+Business networking
+Competencias digitales
+Dotes comerciales
+Habilidades comerciales
+Habilidades digitales
+Habilidades sociales
+Negociación
+Negociación colectiva
+Negociación con grandes superficies
+Negociación con proveedores
+Negociación de contratos
+Negociación de ofertas
+Networking
+Relaciones con clientes
+== [Seguridad y salud laboral] ==
+Higiene industrial
+Seguridad
+Seguridad alimentaria
+Seguridad de almacén
+Seguridad en la construcción
+Seguridad en obra
+Seguridad pública
+Vigilancia de seguridad
+== [Legal, normativa y cumplimiento] ==
+Compliance
+GDPR
+General Data Protection Regulation (GDPR)
+ISO 27001
+Normativa de la seguridad laboral
+PCI
+PKI
+Public key infrastructure (PKI)
+RGPD
+Reglamento General de Protección de Datos (RGPD)
+Regulatory compliance
+Seguros sociales
+Sistema Red de la Seguridad Social
+== [Soporte técnico y atención al cliente] ==
+Back office
+Front office
+Gestión de garantía de averías
+Gestión de incidentes
+Soporte a sistemas de ofimática
+Soporte informático a clientes
+Soporte técnico
+== [Herramientas y plataformas específicas] ==
+Avaya
+Avid
+Avid Media Composer
+Azure DevOps
+Azure DevOps Server
+Checkpoint
+ELK
+ELK Stack
+LDAP
+Lightweight Directory Access Protocol (LDAP)
+Linux RHEL
+Linux Ubuntu
+OpenCV (Open source Computer Vision)
+PLC
+Red Hat Enterprise Linux
+Red Hat Enterprise Linux (RHEL)
+SCADA
+Siemens
+Siemens NX
+Siemens WinCC
+Splunk
+Spring Security
+VMware
+VMware ESX
+VMware ESXi
+VMware Infrastructure
+VMware Workstation
+VMware Workstation Pro
+VMware vSphere
+Wireshark
